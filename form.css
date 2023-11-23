@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* label {
+    margin-right: 10px;
+} */
+.container {
+    width: 80%;
+    margin: 8% auto;
+    border: 1px dashed black;
+    padding: 20px;
+}
+.heading_content {
+    text-align: center;
+    
+}
+.form_items {
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+}
+.input_content {
+    padding: 2px;
+    margin: 0 20px 0 10px;
+}
+.reset {
+    margin-left: 15px;
+}
